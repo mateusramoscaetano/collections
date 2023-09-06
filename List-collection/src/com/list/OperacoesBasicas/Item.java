@@ -1,4 +1,4 @@
-package com.list.ExerciciosList;
+package com.list.OperacoesBasicas;
 
 public class Item {
   public String nome;

@@ -1,4 +1,4 @@
-package com.list.ExerciciosList;
+package com.list.OperacoesBasicas;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
